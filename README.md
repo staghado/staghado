@@ -7,9 +7,16 @@
 - 💬 Ping me about **Diffusion Models**, **Vision Transformers**, **Document AI**, **Quantization**, **ONNX**
 - 📫 Reach me: [taghadouinisaid@gmail.com](mailto:taghadouinisaid@gmail.com)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-<!-- Add more badges from https://shields.io/ -->
+<!--![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+-->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Profile views](https://komarev.com/ghpvc/?username=staghado)
 
 <!--
 ## My GitHub Stats
@@ -17,6 +24,6 @@
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=staghado&layout=compact&theme=radical)
--->
 
 ![Profile views](https://komarev.com/ghpvc/?username=staghado)
+-->
