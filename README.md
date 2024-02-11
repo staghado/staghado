@@ -2,7 +2,7 @@
 
 #### Machine Learning Engineer
 
-- 🔭 I’m currently working on [vit.cpp](https://github.com/staghado/vit.cpp) and [TPTea](https://github.com/ReinforcedKnowledge/TPTea)
+- 🔭 I’m currently working on [TPTea](https://github.com/ReinforcedKnowledge/TPTea)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Diffusion Models**, **Language Models**, **Document AI**, **Quantization**, **ONNX**, **Vision Transformers**, etc
 - 📫 Reach me: [taghadouinisaid@gmail.com](mailto:taghadouinisaid@gmail.com)
