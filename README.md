@@ -2,9 +2,9 @@
 
 #### Machine Learning Engineer
 
-- 🔭 I’m currently working on [TPTea](https://github.com/ReinforcedKnowledge/TPTea)
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **Diffusion Models**, **Language Models**, **Document AI**, **Quantization**, **ONNX**, **Vision Transformers**, etc
+<!--- 🔭 I’m currently working on [TPTea](https://github.com/ReinforcedKnowledge/TPTea)
+-->
+- 💬 Interested in, but not limited to,  **Diffusion Models**, **Language Models**, **Efficient Inference**, **Quantization**, **ONNX**, **Vision Transformers**, etc 
 - 📫 Reach me: [taghadouinisaid@gmail.com](mailto:taghadouinisaid@gmail.com)
 
 <!--![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
