@@ -4,7 +4,7 @@
 
 <!--- 🔭 I’m currently working on [TPTea](https://github.com/ReinforcedKnowledge/TPTea)
 -->
-- 💬 Interested in, but not limited to,  **Diffusion Models**, **Language Models**, **Efficient Inference**, **Quantization**, **ONNX**, **Vision Transformers**, etc 
+- 💬 Interested in, but not limited to,  **Pre-training Techniques**, **Code Generation**, **LMs for math**, **Efficient Inference**, **Quantization**, **Vision Transformers**, etc 
 - 📫 Reach me: [taghadouinisaid@gmail.com](mailto:taghadouinisaid@gmail.com)
 
 <!--![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
